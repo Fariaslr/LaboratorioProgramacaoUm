@@ -1,0 +1,12 @@
+body{
+    background: center top darkgray url(../imagem/IFBA_MARCA_vertical-01.png) no-repeat;
+}
+
+#titeOne{
+    color: #f00;
+}
+
+#titleTwo,p{
+    color: #00f;
+    font: italic bold 25px Arial;
+}
